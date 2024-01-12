@@ -2,7 +2,7 @@
 
 [![Followers](https://img.shields.io/github/followers/qppy)](https://github.com/qppy)
 
-Hello! I'm ``__delattr__``, a 15-year-old self-taught tech enthusiast from Slovakia diving into the world of computer science since 2018. My adventure started with Luau programming on Roblox, where I crafted UI libraries and took on exciting projects. In 2023, I took a dive into the world of Python, adding another layer to my coding journey.
+Hello! I'm ``__delattr__``, a 15-year-old self-taught tech enthusiast from Slovakia diving into the world of computer science since 2018. My adventure started with Luau programming on Roblox, where I made UI libraries and took on exciting projects. In 2023, I took a dive into the world of Python, adding another layer to my coding journey.
 
 I have a thing for the artistry of coding, especially when it gets a bit esoteric. Unraveling complexities and exploring the creative side of programming is where I find my joy.
 
